@@ -1,5 +1,5 @@
 import { render, screen, fireEvent } from '@testing-library/react'
-import { GifItem } from "../../components/GifItem/GifItem"
+import { GifItem } from "../../src/components/GifItem"
 
 describe('Prueba en GifItem', () => {
 

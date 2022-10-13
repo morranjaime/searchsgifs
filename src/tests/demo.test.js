@@ -1,2 +1,0 @@
-describe('Demo test', () => {
-});
